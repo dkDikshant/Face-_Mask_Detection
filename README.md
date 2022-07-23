@@ -8,6 +8,4 @@ Based on machine learning (ML), this project. It can be used to stop the spread 
 
 The image of a person wearing and not wearing a mask was used to train and test the model's ability to correctly distinguish those wearing and not wearing masks.
 
-<p>
-<p>
-<p>
+
